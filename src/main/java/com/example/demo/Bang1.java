@@ -4,5 +4,6 @@ public class Bang1 {
     String name;
     String msv;
     String age;
-    String gioitinh;
+    String gioitinh1;
+    String haha;
 }
